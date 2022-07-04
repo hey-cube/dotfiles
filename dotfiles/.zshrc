@@ -1,5 +1,6 @@
 # 『少し凝った zshrc』（https://gist.github.com/mollifier/4979906）をベースに作成
 # License : MIT
+# Copyright © 2022 Shota Nakahara
 # http://mollifier.mit-license.org/
 
 ########################################
