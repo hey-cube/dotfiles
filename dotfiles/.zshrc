@@ -257,7 +257,7 @@ function vsc {
 ########################################
 # exportとか
 
-export PATH=/usr/local/bin:$PATH
+eval "$(/opt/homebrew/bin/brew shellenv)"
 
 export PATH=$HOME/.yarn/bin:$PATH
 
