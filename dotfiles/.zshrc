@@ -183,7 +183,7 @@ alias gld='git log --pretty=format:"%h %ad %s" --date=short --all'
 alias gpl='git pull'
 
 alias gps='git push origin'
-alias gpsf='git push --force-with-lease origin'
+alias gpsf='git push --force-if-includes origin'
 
 alias gst='git status'
 
