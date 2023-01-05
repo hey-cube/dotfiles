@@ -1,3 +1,5 @@
+(set-language-environment "Japanese")
+
 ;;; *.~ とかのバックアップファイルを作らない
 (setq make-backup-files nil)
 ;;; .#* とかのバックアップファイルを作らない
